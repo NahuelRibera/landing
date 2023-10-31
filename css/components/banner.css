@@ -1,0 +1,26 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  font-family: cinzel;
+  font-size: 80px;
+  font-weight: 400;
+}
+
+.banner h2 {
+  color: white;
+  font-family: cinzel;
+  font-weight: 400;
+  font-size:27px;
+}
+
+.banner p {
+  color: white;
+  font-family: cinzel;
+  font-weight: 400;
+  font-size:24px;
+}
